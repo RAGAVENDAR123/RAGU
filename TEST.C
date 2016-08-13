@@ -10,5 +10,7 @@ int main()
     printf("Negative Number");
   }
   if(a==0)
-  printf("BOundary condition")
+  printf("BOundary condition");
+
+  return 0;
 }
